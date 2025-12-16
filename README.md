@@ -16,7 +16,6 @@ The system operates sequentially in two stages:
 
 * Detects individual teeth from panoramic X-ray images
 * Generates bounding boxes and crops tooth ROIs
-* Removes irrelevant background structures (e.g., nasal cavity, spine)
 
 ### Stage 2: Age Estimation (EfficientNet)
 
